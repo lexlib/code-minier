@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 2003-01-04
+Version Consolidée au 2003-07-31
 ## Contenu: 
   - [Livre Ier : Régime général (art. 1 à 144-1)](#1)
     - [Titre Ier : De la classification des gîtes de substances minérales. (art. 1 à 6)](#2)
@@ -4177,6 +4177,35 @@ _Cite_:
   - Code de l'environnement - art. L515-11 (V)
   - Code de l'environnement - art. L515-8 (M)
   - Code de l'environnement - art. L515-9 (V)
+
+
+###### Article 104-3-1
+
+Les dispositions des articles L. 515-15 à L. 515-25 du code de l'environnement sont applicables aux stockages définis à
+l'article 3-1 du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-838 1956-08-16
+
+_Créé par_:
+
+  - Loi n°2003-699 du 30 juillet 2003 - art. 22 () JORF 31 juillet 2003
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+_Nouveaux textes_:
+
+  - Code minier (nouveau) - art. L264-2 (M)
+
+_Cite_:
+
+  - Code minier
+  - Code de l'environnement
 
 
 ###### Article 104-4
