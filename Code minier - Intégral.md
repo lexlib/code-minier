@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 2003-07-31
+Version Consolidée au 2004-02-04
 ## Contenu: 
   - [Livre Ier : Régime général (art. 1 à 144-1)](#1)
     - [Titre Ier : De la classification des gîtes de substances minérales. (art. 1 à 6)](#2)
@@ -5015,34 +5015,41 @@ _Nouveaux textes_:
 
 Tout titulaire d'un permis exclusif de recherches, d'une concession de mines, ou d'une des autorisations prévues aux articles
 98 et 99, tout titulaire d'une autorisation d'amodiation de titre minier peut, après mise en demeure, se voir retirer son
-titre ou autorisation dans l'un des cas suivants :
+titre ou autorisation dans l'un des cas suivants : 
 
-a) Défaut de paiement, pendant plus de deux ans, des redevances minières dues à l'Etat, aux départements et aux communes ;
+a) Défaut de paiement, pendant plus de deux ans, des redevances minières dues à l'Etat, aux départements et aux communes ; 
 
-b) Cession ou amodiation non conforme aux règles du code ;
+b) Cession ou amodiation non conforme aux règles du code ; 
 
 c) Infractions graves aux prescriptions de police, de sécurité ou d'hygiène ; inobservation des mesures imposées en
-application de l'article 79 ;
+application de l'article 79 ; 
 
 d) Pour les permis de mines ou les autorisations de recherche de mines : inactivité persistante ou activité manifestement
 sans rapport avec l'effort financier et, plus généralement, inobservation des engagements souscrits visés dans l'acte
-institutif ; pour les permis exclusifs de recherches de stockages souterrains : inactivité persistante ;
+institutif ; pour les permis exclusifs de recherches de stockages souterrains : inactivité persistante ; 
 
 e) Pour les titres ou les autorisations d'exploitation : absence ou insuffisance prolongée d'exploitation manifestement
 contraire aux possibilités du gisement ou à l'intérêt des consommateurs et non justifiées par l'état du marché, exploitation
 effectuée dans des conditions telles qu'elle est de nature à compromettre sérieusement l'intérêt économique, la conservation
 et l'utilisation ultérieure du gisement et, en matière de stockage souterrain du gaz naturel, l'accomplissement des missions
 de service public relatives à la sécurité d'approvisionnement, au maintien de l'équilibre des réseaux raccordés et à la
-continuité de fourniture du gaz naturel ;
+continuité de fourniture du gaz naturel ; 
 
-f) Inobservation des dispositions des deuxième et troisième alinéas de l'article 81 ;
+f) Inobservation des dispositions de l'article 81 ; 
 
-g) Inobservation des conditions fixées dans l'acte institutif ; non-respect des engagements mentionnés à l'article 25 ;
+g) Inobservation des conditions fixées dans l'acte institutif ; non-respect des engagements mentionnés à l'article 25 ; 
 
-h) Pour les concessions de mines : inexploitation depuis plus de dix ans.
+h) Pour les concessions de mines : inexploitation depuis plus de dix ans. 
 
 La décision de retrait est prononcée par arrêté préfectoral en ce qui concerne les autorisations ou permis prévus aux
 articles 98 et 99, par arrêté ministériel dans les autres cas, selon les modalités fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Ordonnance n° 2011-91 du 20 janvier 2011 article 19 : L'abrogation des dispositions mentionnées au I de l'article 17 ne
+prendra effet qu'à compter de la publication des dispositions réglementaires du code minier pour ce qui concerne au dernier
+alinéa de l'article 119-1 les mots " par arrêté préfectoral " et les mots " par arrêté ministériel " . (Fin de vigueur : date
+indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -5050,18 +5057,27 @@ _Codifié par_:
 
   - Décret n°56-838 1956-08-16
 
-_Modifié par_:
-
-  - Loi n°2003-8 du 3 janvier 2003 - art. 29 () JORF 4 janvier 2003
-
 _Cité par_:
 
   - Loi n°2003-8 du 3 janvier 2003 - art. 31 (MMN)
   - Code minier - art. 68-21 (VT)
 
+_Modifié par_:
+
+  - Loi n°2004-105 du 3 février 2004 - art. 16 () JORF 4 février 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+_Nouveaux textes_:
+
+  - Code minier (nouveau) - art. L173-5 (M)
+  - Code minier (nouveau) - art. L173-6 (V)
+
 _Cite_:
 
-  - Code minier 98, 99, 79, 81, 25
+  - Code minier - art. 99 (VT)
 
 
 ###### Article 119-2
@@ -5701,10 +5717,10 @@ _Nouveaux textes_:
 
 ###### Article 132
 
-Les ingénieurs et techniciens du service des mines, les ingénieurs du service de conservation des gisements d'hydrocarbures,
-les ingénieurs du service géologique national ainsi que les collaborateurs de ce dernier qui sont munis d'un ordre de mission
-émanant du ministre chargé des mines ont accès à tous sondages, ouvrages souterrains ou travaux de fouilles soit pendant,
-soit après leur exécution, et quelle que soit leur profondeur.
+Les ingénieurs et techniciens compétents en matière de police des mines, les ingénieurs placés auprès du ministre chargé des
+mines, les ingénieurs du service géologique national ainsi que les collaborateurs de ce dernier qui sont munis d'un ordre de
+mission émanant du ministre chargé des mines ont accès à tous sondages, ouvrages souterrains ou travaux de fouilles soit
+pendant, soit après leur exécution, et quelle que soit leur profondeur.
 
 Ils peuvent se faire remettre tous échantillons et se faire communiquer tous les documents et renseignements d'ordre
 géologique, géotechnique, hydrologique, hydrographique, topographique, chimique ou minier.
@@ -5717,13 +5733,17 @@ _Codifié par_:
 
   - Décret n°56-838 1956-08-16
 
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
 _Modifié par_:
 
-  - Loi n°77-620 du 16 juin 1977 - art. 32 () JORF 18 juin 1977
+  - Loi n°2004-105 du 3 février 2004 - art. 17 () JORF 4 février 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+_Nouveaux textes_:
+
+  - Code minier (nouveau) - art. L412-1 (V)
 
 **Liens**:
 
@@ -6252,49 +6272,33 @@ _Abrogé par_:
 
 ###### Article 146
 
-Les mines de combustibles minéraux nationalisées sont gérées par des établissements publics nationaux de caractère industriel
-et commercial dotés de la personnalité civile et de l'autonomie financière qui sont :
+Les concessions de combustibles minéraux solides, autres que la tourbe, nationalisées le 18 mai 1946 sont gérées conformément
+aux dispositions du présent code par un établissement public à caractère industriel et commercial dénommé "Charbonnages de
+France". Cet établissement est doté de la personnalité morale et de l'autonomie financière.
 
-1° Un établissement public central dénommé "Charbonnages de France" dont l'action s'exerce sur l'ensemble du territoire ;
-
-2° Des établissements publics distincts, dénommés "Houillères du bassin de ..." constitués dans chaque bassin houiller par
-des décrets pris sur le rapport du ministre chargé des mines, du ministre de l'économie et des finances, le commissaire au
-plan entendu ; ces décrets délimitent leurs champs d'action respectifs.
+Un décret en Conseil d'Etat fixe les modalités de la dissolution de cet établissement, qui interviendra au plus tard quatre
+ans après la fin de l'exploitation par celui-ci de sa dernière mine, à condition que cet établissement ait rempli toutes ses
+obligations liées à la fin des concessions minières ou que celles-ci aient été transférées à une autre personne morale
+chargée de les remplir.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°56-838 1956-08-16
-
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
 
 _Cité par_:
 
   - Décret n°59-1205 du 23 octobre 1959 - art. 1 (V)
   - Loi n°2007-1822 du 24 décembre 2007 - art. 55 (VD)
 
+_Modifié par_:
 
-###### Article 147
-
-Les exploitations de combustibles minéraux solides, autres que la tourbe, existant au 17 mai 1946 qui, en raison de leur
-intérêt secondaire, ont été exceptées de la nationalisation, sont soumises au contrôle des "Charbonnages de France".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-838 1956-08-16
-
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+  - Loi n°2004-105 du 3 février 2004 - art. 11 () JORF 4 février 2004
 
 _Abrogé par_:
 
-  - Loi n°2004-105 du 3 février 2004 - art. 18 (V) JORF 4 février 2004
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 18 (V)
 
 
 ###### Article 148
@@ -6305,9 +6309,8 @@ Conseil d'Etat dans les formes prévues par les articles 66 et 67 du présent co
 assurée par l'Etat. Leur exploitation est soumise au régime général défini par le présent titre pour les mines visées à
 l'article 146.
 
-Les gisements susvisés dont l'attribution ne serait pas revendiquée par les Charbonnages de France en raison de leur peu
-d'importance ou des difficultés de leur exploitation peuvent faire l'objet de permis d'exploitation de mines. Ils sont alors
-soumis au contrôle des Charbonnages de France.
+Les gisements non attribués aux Charbonnages de France peuvent donner lieu à l'octroi de titres miniers dans les conditions
+prévues au livre Ier du présent code.
 
 **Liens relatifs à cet article**
 
@@ -6315,9 +6318,9 @@ _Codifié par_:
 
   - Décret n°56-838 1956-08-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+  - Loi n°2004-105 du 3 février 2004 - art. 19 () JORF 4 février 2004
 
 _Cite_:
 
@@ -6738,14 +6741,9 @@ _Abrogé par_:
 ###### Article 171
 
 Des décrets en Conseil d'Etat, pris sur rapport du ministre chargé des mines et du ministre de l'économie et des finances,
-déterminent les conditions d'application du présent titre, et notamment :
-
-a) Les statuts des Charbonnages de France et des houillères de bassin ;
-
-b) Les mesures de contrôle et de coordination auxquelles sont soumises les exploitations visées à l'article 147 ci-dessus ;
-
-c) La réglementation applicable à la distribution et à la vente de combustibles minéraux en vue d'une meilleure utilisation
-de ces combustibles.
+déterminent les conditions d'application du présent titre, et notamment les statuts des Charbonnages de France et la
+réglementation applicable à la distribution et à la vente de combustibles minéraux en vue d'une meilleure utilisation de ces
+combustibles.
 
 **Liens relatifs à cet article**
 
@@ -6753,13 +6751,13 @@ _Codifié par_:
 
   - Décret n°56-838 1956-08-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+  - Loi n°2004-105 du 3 février 2004 - art. 21 () JORF 4 février 2004
 
-_Cite_:
+_Abrogé par_:
 
-  - Code minier 147
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
 
 
 ## Titre II : Des mines domaniales de potasse d'Alsace et de l'organisation de l'industrie de la potasse.<a id=34></a>
