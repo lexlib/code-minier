@@ -1,39 +1,40 @@
 # Code minier  
-Version Consolidée au 2000-09-21
+Version Consolidée au 2000-12-14
 ## Contenu: 
   - [Livre Ier : Régime général (art. 1 à 144-1)](#1)
     - [Titre Ier : De la classification des gîtes de substances minérales. (art. 1 à 6)](#2)
     - [Titre II : Des recherches de mines. (art. 7 à 19)](#3)
-    - [Titre III : De l'exploitation des mines (art. 21 à 68-20)](#4)
+    - [Titre III : De l'exploitation des mines (art. 21 à 68-24)](#4)
       - [Chapitre Ier : Des concessions (art. 25 à 45)](#5)
         - [Section 1 : Octroi de la concession. (art. 25 à 35)](#6)
         - [Section 2 : Rapports avec les propriétaires de la surface et les tiers. (art. 36 à 43)](#7)
         - [Section 3 : Retrait et fin de la concession. (art. 45)](#8)
       - [Chapitre II : Des permis d'exploitation de mines. (art. 50 à 63)](#9)
       - [Chapitre III : Des mines appartenant à l'Etat. (art. 64 à 67)](#10)
-      - [Chapitre IV : Dispositions particulières aux départements d'outre-mer (art. 68 à 68-20)](#11)
+      - [Chapitre IV : Dispositions particulières aux départements d'outre-mer (art. 68 à 68-24)](#11)
         - [Section 1 : Des autorisations d'exploitation. (art. 68 à 68-8)](#12)
         - [Section 2 : Des permis d'exploitation. (art. 68-9 à 68-18)](#13)
         - [Section 3 : Dispositions diverses. (art. 68-19 à 68-20)](#14)
-    - [Titre IV : De l'exécution des travaux de recherche et d'exploitation de mines (art. 69 à 96)](#15)
-      - [Chapitre Ier : Des relations des explorateurs et exploitants entre eux ou avec les propriétaires de la surface. (art. 69 à 76)](#16)
-      - [Chapitre II : De l'exercice de la surveillance administrative et des mesures à prendre en cas d'accidents. (art. 77 à 90)](#17)
-      - [Chapitre III : De l'arrêt des travaux miniers et de la prévention des risques (art. 91 à 96)](#18)
-        - [Section 1 : De l'arrêt des travaux miniers. (art. 91 à 92)](#19)
-        - [Section 2 : De la prévention et de la surveillance des risques miniers. (art. 93 à 96)](#20)
-    - [Titre V : Des gîtes géothermiques à basse température. (art. 98 à 103)](#21)
-    - [Titre VI : Des carrières. (art. 105 à 119)](#22)
-    - [Titre VI bis : Du retrait des titres de recherches et d'exploitation et de la renonciation à ces droits. (art. 119-1 à 119-4)](#23)
-    - [Titre VI ter : Des mutations et amodiations des titres de recherches et d'exploitation. (art. 119-5 à 119-10)](#24)
-    - [Titre VII : Du passage dans la classe des mines de substances antérieurement soumises au régime légal des minières ou à celui des carrières. (art. 120 à 129)](#25)
-    - [Titre VII bis : De l'exploitation des haldes et terrils et des déchets des exploitations de carrières. (art. 130)](#26)
-    - [Titre VIII : Des déclarations de fouilles et de levés géophysiques. (art. 131 à 136)](#27)
-    - [Titre IX : Des expertises. (art. 138 à 139)](#28)
-    - [Titre X : De la constatation des infractions et des pénalités. (art. 140 à 144-1)](#29)
-  - [Livre II : Régimes particuliers (art. 145 à 207)](#30)
-    - [Titre Ier : Des exploitations nationalisées de combustibles minéraux solides. (art. 145 à 171)](#31)
-    - [Titre II : Des mines domaniales de potasse d'Alsace et de l'organisation de l'industrie de la potasse. (art. 172 à 183)](#32)
-    - [Titre IV : Du bureau de recherches géologiques, géophysiques et minières de la France métropolitaine. (art. 207)](#33)
+        - [Section 4 : De la recherche et de l'exploitation en mer. (art. 68-21 à 68-24)](#15)
+    - [Titre IV : De l'exécution des travaux de recherche et d'exploitation de mines (art. 69 à 96)](#16)
+      - [Chapitre Ier : Des relations des explorateurs et exploitants entre eux ou avec les propriétaires de la surface. (art. 69 à 76)](#17)
+      - [Chapitre II : De l'exercice de la surveillance administrative et des mesures à prendre en cas d'accidents. (art. 77 à 90)](#18)
+      - [Chapitre III : De l'arrêt des travaux miniers et de la prévention des risques (art. 91 à 96)](#19)
+        - [Section 1 : De l'arrêt des travaux miniers. (art. 91 à 92)](#20)
+        - [Section 2 : De la prévention et de la surveillance des risques miniers. (art. 93 à 96)](#21)
+    - [Titre V : Des gîtes géothermiques à basse température. (art. 98 à 103)](#22)
+    - [Titre VI : Des carrières. (art. 105 à 119)](#23)
+    - [Titre VI bis : Du retrait des titres de recherches et d'exploitation et de la renonciation à ces droits. (art. 119-1 à 119-4)](#24)
+    - [Titre VI ter : Des mutations et amodiations des titres de recherches et d'exploitation. (art. 119-5 à 119-10)](#25)
+    - [Titre VII : Du passage dans la classe des mines de substances antérieurement soumises au régime légal des minières ou à celui des carrières. (art. 120 à 129)](#26)
+    - [Titre VII bis : De l'exploitation des haldes et terrils et des déchets des exploitations de carrières. (art. 130)](#27)
+    - [Titre VIII : Des déclarations de fouilles et de levés géophysiques. (art. 131 à 136)](#28)
+    - [Titre IX : Des expertises. (art. 138 à 139)](#29)
+    - [Titre X : De la constatation des infractions et des pénalités. (art. 140 à 144-1)](#30)
+  - [Livre II : Régimes particuliers (art. 145 à 207)](#31)
+    - [Titre Ier : Des exploitations nationalisées de combustibles minéraux solides. (art. 145 à 171)](#32)
+    - [Titre II : Des mines domaniales de potasse d'Alsace et de l'organisation de l'industrie de la potasse. (art. 172 à 183)](#33)
+    - [Titre IV : Du bureau de recherches géologiques, géophysiques et minières de la France métropolitaine. (art. 207)](#34)
 # Livre Ier : Régime général<a id=1></a>
 
 ## Titre Ier : De la classification des gîtes de substances minérales.<a id=2></a>
@@ -2219,9 +2220,137 @@ _Nouveaux textes_:
   - Code minier (nouveau) - art. L611-35 (V)
 
 
-## Titre IV : De l'exécution des travaux de recherche et d'exploitation de mines<a id=15></a>
+#### Section 4 : De la recherche et de l'exploitation en mer.<a id=15></a>
 
-### Chapitre Ier : Des relations des explorateurs et exploitants entre eux ou avec les propriétaires de la surface.<a id=16></a>
+###### Article 68-21
+
+Lorsqu'elles concernent les titres miniers en mer, et à l'exclusion de ceux relatifs aux minerais ou produits utiles à
+l'énergie atomique, les décisions individuelles mentionnées aux articles 9, 10, 18-1, 25, 68-9, 119-1, 119-4 et 119-5 sont
+prises par la région, qui se prononce après avis du Conseil général des mines. Lorsqu'elle ne suit pas l'avis du Conseil
+général des mines, la décision de la région doit être motivée.
+
+**Nota:**
+
+Ordonnance n° 2011-91 du 20 janvier 2011 article 19 : L'abrogation des dispositions mentionnées au I de l'article 17 ne
+prendra effet qu'à compter de la publication des dispositions réglementaires du code minier pour ce qui concerne à l'article
+68-21 au premier alinéa, les mots " qui se prononce après avis du conseil général des mines " et le second alinéa (Fin de
+vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-838 du 16 août 1956 portant code minier
+
+_Créé par_:
+
+  - Loi n°2000-1207 du 13 décembre 2000 - art. 48
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+_Cité par_:
+
+  - Code général des collectivités territoriales - art. L4141-2 (VT)
+  - Code général des collectivités territoriales - art. L4433-17 (V)
+
+_Nouveaux textes_:
+
+  - Code minier (nouveau) - art. L611-31 (V)
+  - Code minier (nouveau) - art. L611-32 (V)
+
+_Cite_:
+
+  - Code minier - art. 119-1 (VT)
+  - Code minier - art. 119-4 (VT)
+  - Code minier - art. 18-1 (VT)
+
+
+###### Article 68-22
+
+Pour l'application en mer, dans les régions d'outre-mer, des dispositions de l'article 8, la compétence dévolue au préfet est
+exercée par la région.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-838 1956-08-16
+
+_Créé par_:
+
+  - Loi n°2000-1207 du 13 décembre 2000 - art. 48
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+_Cité par_:
+
+  - Code général des collectivités territoriales - art. L4141-2 (VD)
+
+_Cite_:
+
+  - Code minier
+
+
+###### Article 68-23
+
+Pour l'application en mer, dans les régions d'outre-mer, des dispositions des articles 29 (III) et 75-1, la région est
+substituée à l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-838 du 16 août 1956 portant code minier
+
+_Créé par_:
+
+  - Loi n°2000-1207 du 13 décembre 2000 - art. 48
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+_Nouveaux textes_:
+
+  - Code minier (nouveau) - art. L611-34 (V)
+
+_Cite_:
+
+  - Code minier
+
+
+###### Article 68-24
+
+Un décret en Conseil d'Etat précise les modalités d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-838 du 16 août 1956 portant code minier
+
+_Créé par_:
+
+  - Loi n°2000-1207 du 13 décembre 2000 - art. 48
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+_Nouveaux textes_:
+
+  - Code minier (nouveau) - art. L611-31 (V)
+  - Code minier (nouveau) - art. L611-33 (V)
+  - Code minier (nouveau) - art. L611-34 (V)
+
+
+## Titre IV : De l'exécution des travaux de recherche et d'exploitation de mines<a id=16></a>
+
+### Chapitre Ier : Des relations des explorateurs et exploitants entre eux ou avec les propriétaires de la surface.<a id=17></a>
 
 ###### Article 69
 
@@ -2876,7 +3005,7 @@ _Cite_:
   - Code minier
 
 
-### Chapitre II : De l'exercice de la surveillance administrative et des mesures à prendre en cas d'accidents.<a id=17></a>
+### Chapitre II : De l'exercice de la surveillance administrative et des mesures à prendre en cas d'accidents.<a id=18></a>
 
 ###### Article 77
 
@@ -3334,9 +3463,9 @@ _Nouveaux textes_:
   - Code minier (nouveau) - art. L152-1 (V)
 
 
-### Chapitre III : De l'arrêt des travaux miniers et de la prévention des risques<a id=18></a>
+### Chapitre III : De l'arrêt des travaux miniers et de la prévention des risques<a id=19></a>
 
-#### Section 1 : De l'arrêt des travaux miniers.<a id=19></a>
+#### Section 1 : De l'arrêt des travaux miniers.<a id=20></a>
 
 ###### Article 91
 
@@ -3471,7 +3600,7 @@ _Nouveaux textes_:
   - Code minier (nouveau) - art. L163-11 (M)
 
 
-#### Section 2 : De la prévention et de la surveillance des risques miniers.<a id=20></a>
+#### Section 2 : De la prévention et de la surveillance des risques miniers.<a id=21></a>
 
 ###### Article 93
 
@@ -3652,7 +3781,7 @@ _Nouveaux textes_:
   - Code minier (nouveau) - art. L174-12 (V)
 
 
-## Titre V : Des gîtes géothermiques à basse température.<a id=21></a>
+## Titre V : Des gîtes géothermiques à basse température.<a id=22></a>
 
 ###### Article 98
 
@@ -3857,7 +3986,7 @@ _Cite_:
   - Code minier
 
 
-## Titre VI : Des carrières.<a id=22></a>
+## Titre VI : Des carrières.<a id=23></a>
 
 ###### Article 105
 
@@ -4480,7 +4609,7 @@ _Nouveaux textes_:
   - Code minier (nouveau) - art. L342-6 (VT)
 
 
-## Titre VI bis : Du retrait des titres de recherches et d'exploitation et de la renonciation à ces droits.<a id=23></a>
+## Titre VI bis : Du retrait des titres de recherches et d'exploitation et de la renonciation à ces droits.<a id=24></a>
 
 ###### Article 119-1
 
@@ -4594,7 +4723,7 @@ _Cité par_:
   - Code minier - art. 68-21 (VT)
 
 
-## Titre VI ter : Des mutations et amodiations des titres de recherches et d'exploitation.<a id=24></a>
+## Titre VI ter : Des mutations et amodiations des titres de recherches et d'exploitation.<a id=25></a>
 
 ###### Article 119-5
 
@@ -4768,7 +4897,7 @@ _Nouveaux textes_:
   - Code minier (nouveau) - art. L143-7 (V)
 
 
-## Titre VII : Du passage dans la classe des mines de substances antérieurement soumises au régime légal des minières ou à celui des carrières.<a id=25></a>
+## Titre VII : Du passage dans la classe des mines de substances antérieurement soumises au régime légal des minières ou à celui des carrières.<a id=26></a>
 
 ###### Article 120
 
@@ -5083,7 +5212,7 @@ _Cite_:
   - Code minier
 
 
-## Titre VII bis : De l'exploitation des haldes et terrils et des déchets des exploitations de carrières.<a id=26></a>
+## Titre VII bis : De l'exploitation des haldes et terrils et des déchets des exploitations de carrières.<a id=27></a>
 
 ###### Article 130
 
@@ -5117,7 +5246,7 @@ _Cité par_:
   - Code de l'environnement - art. Annexe (3) à l'article R511-9 (V)
 
 
-## Titre VIII : Des déclarations de fouilles et de levés géophysiques.<a id=27></a>
+## Titre VIII : Des déclarations de fouilles et de levés géophysiques.<a id=28></a>
 
 ###### Article 131
 
@@ -5360,7 +5489,7 @@ _Cite_:
   - Code minier
 
 
-## Titre IX : Des expertises.<a id=28></a>
+## Titre IX : Des expertises.<a id=29></a>
 
 ###### Article 138
 
@@ -5402,7 +5531,7 @@ _Abrogé par_:
   - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
 
 
-## Titre X : De la constatation des infractions et des pénalités.<a id=29></a>
+## Titre X : De la constatation des infractions et des pénalités.<a id=30></a>
 
 ###### Article 140
 
@@ -5681,9 +5810,9 @@ _Cite_:
   - Code minier 141, 142
 
 
-# Livre II : Régimes particuliers<a id=30></a>
+# Livre II : Régimes particuliers<a id=31></a>
 
-## Titre Ier : Des exploitations nationalisées de combustibles minéraux solides.<a id=31></a>
+## Titre Ier : Des exploitations nationalisées de combustibles minéraux solides.<a id=32></a>
 
 ###### Article 145
 
@@ -6213,7 +6342,7 @@ _Cite_:
   - Code minier 147
 
 
-## Titre II : Des mines domaniales de potasse d'Alsace et de l'organisation de l'industrie de la potasse.<a id=32></a>
+## Titre II : Des mines domaniales de potasse d'Alsace et de l'organisation de l'industrie de la potasse.<a id=33></a>
 
 ###### Article 172
 
@@ -6298,7 +6427,7 @@ _Abrogé par_:
   - Ordonnance n°2006-407 du 6 avril 2006 - art. 2 () JORF 7 avril 2006
 
 
-## Titre IV : Du bureau de recherches géologiques, géophysiques et minières de la France métropolitaine.<a id=33></a>
+## Titre IV : Du bureau de recherches géologiques, géophysiques et minières de la France métropolitaine.<a id=34></a>
 
 ###### Article 207
 
