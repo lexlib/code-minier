@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1992-01-04
+Version Consolidée au 1992-07-14
 ## Contenu: 
   - [Livre Ier : Régime général (art. 1 à 144)](#1)
     - [Titre Ier : De la classification des gîtes de substances minérales. (art. 1 à 6)](#2)
@@ -2127,6 +2127,26 @@ _Cité par_:
   - Code de l'environnement - art. R515-41 (V)
   - Code de la santé publique - art. L1333-4 (V)
   - Code de la santé publique - art. R1333-45 (M)
+
+
+###### Article 83-1
+
+En cas de cessation d'activité d'une mine et avant ennoyage, l'exploitant doit retirer les produits polluants de toute nature
+résultant de l'exploitation passée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-838 1956-08-16
+
+_Créé par_:
+
+  - Loi n°92-646 du 13 juillet 1992 - art. 14 () JORF 14 juillet 1992
+
+_Abrogé par_:
+
+  - Loi n°94-588 du 15 juillet 1994 - art. 46 () JORF 16 juillet 1994
 
 
 ###### Article 84
