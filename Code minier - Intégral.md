@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1971-10-01
+Version Consolidée au 1972-07-12
 ## Contenu: 
   - [Livre Ier : Régime général (art. 1 à 144)](#1)
     - [Titre Ier : De la classification des gîtes de substances minérales. (art. 1 à 6)](#2)
@@ -1652,34 +1652,6 @@ _Cite_:
   - Code minier 141
 
 
-###### Article 79
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-838 1956-08-16
-
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-_Abrogé par_:
-
-  - Décret n°72-645 1972-07-04 art. 27 I JORF 12 juillet 1972
-
-_Cité par_:
-
-  - Décret n°2006-798 du 6 juillet 2006 - art. 41 (V)
-  - Décret n°2010-1389 du 12 novembre 2010 - art. 3 (V)
-  - Décret n°2010-1394 du 12 novembre 2010 - art. 7 (V)
-  - Code de l'environnement - art. L229-35 (V)
-  - Code de l'environnement - art. R515-41 (V)
-  - Code minier - art. 91 (VT)
-
-
 ###### Article 80
 
 Tout puits, galerie ou travail d'exploitation de mine ouverts en contravention du présent code et des textes pris pour son
@@ -1725,25 +1697,6 @@ _Créé par_:
 _Cité par_:
 
   - Décret n°59-1205 du 23 octobre 1959 - art. 1 (V)
-
-
-###### Article 88
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-838 1956-08-16
-
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-_Abrogé par_:
-
-  - Décret n°72-645 1972-07-04 art. 27 I JORF 12 juillet 1972
 
 
 ###### Article 90
