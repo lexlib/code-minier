@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1981-04-18
+Version Consolidée au 1992-01-04
 ## Contenu: 
   - [Livre Ier : Régime général (art. 1 à 144)](#1)
     - [Titre Ier : De la classification des gîtes de substances minérales. (art. 1 à 6)](#2)
@@ -2088,8 +2088,20 @@ intéressée. La remise en état, notamment à des fins agricoles, des sites et 
 installations de toute nature réalisés en vue de l'exploitation et de la recherche, peut être prescrite : elle est
 obligatoire dans le cas des carrières. Ces dispositions sont applicables aux travaux visés à l'article 80.
 
+Dans tous les cas, le titulaire du titre ou de l'autorisation dresse un bilan des effets cumulés des travaux sur la présence,
+l'accumulation, l'émergence, le volume, l'écoulement et la qualité des eaux de toute nature, évalue les conséquences
+prévisibles de l'abandon des travaux ou de l'exploitation sur la situation ainsi créée et sur les usages de l'eau et indique
+les mesures compensatoires envisagées.
+
+Après avoir consulté les collectivités territoriales intéressées et entendu le titulaire du titre ou de l'autorisation, le
+préfet lui prescrit les travaux à exécuter pour rétablir en leur état antérieur, conserver en leur état actuel ou adapter aux
+besoins, les caractéristiques essentielles du milieu aquatique et les conditions hydrauliques permettant de répondre aux
+objectifs mentionnés à l'article 1er de la loi n° 92-3 du 3 janvier 1992 sur l'eau.
+
 A défaut d'exécution, les opérations prescrites sont effectuées d'office et aux frais du titulaire ou du contrevenant par les
-soins de l'administration.
+soins de l'administration. La consignation entre les mains d'un comptable public des sommes nécessaires à la réalisation des
+travaux imposés en application de l'alinéa précédent peut être exigée dans les conditions prévues à l'article 17 de la loi n°
+92-3 du 3 janvier 1992 précitée.
 
 Les communes et les départements ont un droit de préemption en cas de vente des carrières laissées à l'abandon qui ont été
 exploitées sur leur territoire.
@@ -2100,13 +2112,14 @@ _Codifié par_:
 
   - Décret n°56-838 1956-08-16
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+  - Loi n°92-3 1992-01-03 art. 1, art. 17
+  - Code minier 84, 80
 
 _Modifié par_:
 
-  - Loi n°77-620 du 16 juin 1977 - art. 20 () JORF 18 juin 1977
+  - Loi n°92-3 du 3 janvier 1992 - art. 17 () JORF 4 janvier 1992
 
 _Cité par_:
 
@@ -2115,19 +2128,14 @@ _Cité par_:
   - Code de la santé publique - art. L1333-4 (V)
   - Code de la santé publique - art. R1333-45 (M)
 
-_Cite_:
-
-  - Code minier 84, 80
-
 
 ###### Article 84
 
 Si les travaux de recherches ou d'exploitation d'une mine sont de nature à compromettre la sécurité et la salubrité
 publiques, les caractéristiques essentielles du milieu environnant, terrestre ou maritime, la conservation de la mine ou
 d'une autre mine, la sûreté, la sécurité et l'hygiène des ouvriers mineurs, la conservation des voies de communication, la
-solidité des édifices publics ou privés, l'usage, le débit ou la qualité des eaux de toute nature, l'effet des mesures
-générales arrêtées par décret à l'intérieur d'une zone spéciale d'aménagement des eaux, il y est pourvu par le préfet, au
-besoin d'office et aux frais de l'explorateur ou de l'exploitant.
+solidité des édifices publics ou privés, l'usage, le débit ou la qualité des eaux de toute nature, il y est pourvu par le
+préfet, au besoin d'office et aux frais de l'explorateur ou de l'exploitant.
 
 **Liens relatifs à cet article**
 
@@ -2135,15 +2143,9 @@ _Codifié par_:
 
   - Décret n°56-838 1956-08-16
 
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
 _Modifié par_:
 
-  - Loi n°64-1245 1964-12-16 art. 42 JORF 18 décembre 1964
-  - Loi n°70-1 du 2 janvier 1970 - art. 21 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
-  - Loi n°77-620 du 16 juin 1977 - art. 20 () JORF 18 juin 1977
+  - Loi n°92-3 1992-01-03 art. 46 III JORF 4 janvier 1992
 
 
 ###### Article 85
