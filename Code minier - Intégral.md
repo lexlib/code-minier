@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1998-04-22
+Version Consolidée au 1998-12-31
 ## Contenu: 
   - [Livre Ier : Régime général (art. 1 à 144-1)](#1)
     - [Titre Ier : De la classification des gîtes de substances minérales. (art. 1 à 6)](#2)
@@ -1032,6 +1032,31 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - Code minier (nouveau) - art. L132-16 (M)
+
+
+###### Article 31-1
+
+Pour la zone économique exclusive française en mer au large de Saint-Pierre-et-Miquelon, une redevance spécifique, due par
+les titulaires de concessions de mines hydrocarbures liquides ou gazeux, est établie au bénéfice de la collectivité
+territoriale de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-838 1956-08-16
+
+_Créé par_:
+
+  - Loi n°98-1266 1998-12-30 art. 53 I Finances pour 1999 JORF 31 décembre 1998
+
+_Cité par_:
+
+  - Loi - art. 53 (M)
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
 
 
 ###### Article 35
