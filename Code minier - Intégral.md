@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1970-11-01
+Version Consolidée au 1971-09-24
 ## Contenu: 
   - [Livre Ier : Régime général (art. 1 à 144)](#1)
     - [Titre Ier : De la classification des gîtes de substances minérales. (art. 1 à 6)](#2)
@@ -2486,6 +2486,29 @@ _Cité par_:
 _Cite_:
 
   - Code minier 7, 9, 12, 22, 69, 70, 106, 109, 131, 133, 136
+
+
+###### Article 143
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-838 1956-08-16
+
+_Créé par_:
+
+  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+_Modifié par_:
+
+  - Décret n°71-791 1971-09-20 art. 1, art. 2 JORF 24 septembre 1971
+
+_Abrogé par_:
+
+  - Décret n°79-432 du 25 mai 1979 - art. 3 (V) JORF 2 juin 1979
 
 
 ###### Article 144
