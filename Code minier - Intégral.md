@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1959-09-05
+Version Consolidée au 1959-11-01
 ## Contenu: 
   - [Livre Ier : Régime général (art. 6 à 144)](#1)
     - [Titre Ier : De la classification des gîtes de substances minérales. (art. 6)](#2)
@@ -20,14 +20,13 @@ Version Consolidée au 1959-09-05
     - [Titre VIII : Des déclarations de fouilles et de levés géophysiques. (art. 131 à 137)](#17)
     - [Titre IX : Des expertises. (art. 138 à 139)](#18)
     - [Titre X : De la constatation des infractions et des pénalités. (art. 140 à 144)](#19)
-  - [Livre II : Régimes particuliers (art. 145 à 206)](#20)
+  - [Livre II : Régimes particuliers (art. 145 à 202)](#20)
     - [Titre Ier : Des exploitations nationalisées de combustibles minéraux solides. (art. 145 à 171)](#21)
     - [Titre II : Des mines domaniales de potasse d'Alsace et de l'organisation de l'industrie de la potasse. (art. 173 à 187)](#22)
     - [Titre III : De certains organismes ou régimes spéciaux concernant la recherche et l'exploitation des hydrocarbures (art. 188 à 202)](#23)
       - [Chapitre Ier : Bureau de recherches de pétrole. (art. 188 à 193)](#24)
       - [Chapitre II : Régie autonome des pétroles. (art. 194 à 196)](#25)
       - [Chapitre III : Recherche et exploitation des hydrocarbures en Aquitaine. (art. 197 à 202)](#26)
-    - [Titre IV : Du bureau de recherches géologiques, géophysiques et minières de la France métropolitaine. (art. 203 à 206)](#27)
 # Livre Ier : Régime général<a id=1></a>
 
 ## Titre Ier : De la classification des gîtes de substances minérales.<a id=2></a>
@@ -2968,67 +2967,5 @@ _Créé par_:
 _Abrogé par_:
 
   - Loi n°77-620 du 16 juin 1977 - art. 34 () JORF 18 juin 1977
-
-
-## Titre IV : Du bureau de recherches géologiques, géophysiques et minières de la France métropolitaine.<a id=27></a>
-
-###### Article 203
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-838 1956-08-16
-
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-
-###### Article 204
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-838 1956-08-16
-
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-
-###### Article 205
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-838 1956-08-16
-
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-
-###### Article 206
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-838 1956-08-16
-
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
 
 
