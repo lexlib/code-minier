@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1971-09-24
+Version Consolidée au 1971-10-01
 ## Contenu: 
   - [Livre Ier : Régime général (art. 1 à 144)](#1)
     - [Titre Ier : De la classification des gîtes de substances minérales. (art. 1 à 6)](#2)
@@ -14,7 +14,7 @@ Version Consolidée au 1971-09-24
     - [Titre IV : De l'exécution des travaux de recherche et d'exploitation de mines (art. 69 à 96)](#11)
       - [Chapitre Ier : Des relations des explorateurs et exploitants entre eux ou avec les propriétaires de la surface. (art. 69 à 76)](#12)
       - [Chapitre II : De l'exercice de la surveillance administrative et des mesures à prendre en cas d'accidents. (art. 77 à 96)](#13)
-    - [Titre VI : Des carrières. (art. 107 bis à 116)](#14)
+    - [Titre VI : Des carrières. (art. 105 à 119)](#14)
     - [Titre VI bis : Du retrait des titres de recherches et d'exploitation et de la renonciation à ces droits. (art. 119-2 à 119-4)](#15)
     - [Titre VII : Du passage dans la classe des mines de substances antérieurement soumises au régime légal des minières ou à celui des carrières. (art. 120 à 129)](#16)
     - [Titre VIII : Des déclarations de fouilles et de levés géophysiques. (art. 131 à 136)](#17)
@@ -1865,6 +1865,62 @@ _Abrogé par_:
 
 ## Titre VI : Des carrières.<a id=14></a>
 
+###### Article 105
+
+Les carrières sont laissées à la disposition du propriétaire du sol sous réserve des dispositions du présent titre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+_Codifié par_:
+
+  - Décret n°56-838 du 16 août 1956 portant code minier
+
+_Modifié par_:
+
+  - Loi n°70-1 du 2 janvier 1970 - art. 24 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+_Nouveaux textes_:
+
+  - Code minier (nouveau) - art. L332-1 (V)
+
+
+###### Article 107
+
+L'exploitation des carrières, à ciel ouvert ou souterraines, est soumise à la surveillance de l'administration dans les
+conditions prévues pour les mines par le chapitre II du titre IV du présent code, à l'exception de l'article 81.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-838 1956-08-16
+
+_Créé par_:
+
+  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+_Modifié par_:
+
+  - Loi n°70-1 du 2 janvier 1970 - art. 24 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
+
+_Cité par_:
+
+  - Décret n°99-116 du 12 février 1999 - art. 5 (V)
+  - Code de l'environnement - art. R515-8 (Ab)
+
+_Cite_:
+
+  - Code minier 81
+
+
 ###### Article 107 bis
 
 Le propriétaire d'une carrière peut, à l'expiration d'un contrat de fortage, s'opposer à son renouvellement. L'exploitant qui
@@ -1891,6 +1947,157 @@ _Abrogé par_:
 _Nouveaux textes_:
 
   - Code minier (nouveau) - art. L332-6 (V)
+
+
+###### Article 109
+
+Lorsque la mise en valeur des gîtes d'une substance appartenant à la classe des carrières ne peut, en raison de
+l'insuffisance des ressources connues de cette substance ou pour toute autre cause, prendre ou garder le développement
+nécessaire pour satisfaire les besoins des consommateurs, l'économie générale du pays ou celle de la région, des décrets en
+Conseil d'Etat peuvent, après enquête publique de deux mois, définir les zones dans lesquelles le ministre chargé des mines
+peut accorder :
+
+1° Des autorisations de recherches à défaut du consentement du propriétaire du sol, le titulaire d'une telle autorisation
+bénéficiant des dispositions des articles 71 à 71-6 du présent code ;
+
+2° Des permis d'exploitation de carrières, conférant à leurs titulaires le droit d'exploiter les gîtes de cette substance, à
+l'exclusion de toute autre personne, y compris les propriétaires du sol, et d'invoquer le bénéfice des articles 71 à 73 du
+présent code. Ces permis d'exploitation tiennent lieu de l'autorisation prévue à l'article 106.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-838 1956-08-16
+
+_Créé par_:
+
+  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+_Modifié par_:
+
+  - Loi n°70-1 du 2 janvier 1970 - art. 26 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
+
+_Cité par_:
+
+  - Décret n°97-1194 du 19 décembre 1997 - art. Annexe (VD)
+  - Code de l'environnement - art. L515-6 (V)
+  - Code de l'environnement - art. R122-5 (V)
+  - Code de l'environnement - art. R122-9 (V)
+  - Code de l'urbanisme - art. R*123-13 (VT)
+  - Code forestier - art. R311-1 (Ab)
+  - Code minier - art. 109-1 (V)
+
+_Cite_:
+
+  - Code minier 71 à 71-6, 71 à 73, 106
+
+
+###### Article 110
+
+Les autorisations ministérielles de recherches et les permis d'exploitation prévus à l'article précédent sont accordés pour
+des durées maximales respectives de trois ans et dix ans, mais peuvent faire l'objet de prolongations successives d'une même
+durée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-838 1956-08-16
+
+_Créé par_:
+
+  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+_Modifié par_:
+
+  - Loi n°70-1 du 2 janvier 1970 - art. 26 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
+
+_Cité par_:
+
+  - Code minier - art. 109-1 (V)
+
+
+###### Article 111
+
+Dans les zones définies par les décrets prévus par l'article 109, l'exploitation, par les propriétaires du sol ou leurs
+ayants droit, de substances pour lesquelles ces zones ont été définies reste possible sous le régime de l'autorisation prévue
+par l'article 106 dans les conditions et limites fixées par les articles 112 et 113.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-838 1956-08-16
+
+_Créé par_:
+
+  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+_Modifié par_:
+
+  - Loi n°70-1 du 2 janvier 1970 - art. 26 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
+
+_Cite_:
+
+  - Code minier 109, 106, 112, 113
+
+
+###### Article 112
+
+A l'intérieur des zones définies en application de l'article 109, il ne peut être accordé ni autorisation de recherches ni
+permis d'exploitation de carrières sur des terrains qui, à la date de la demande d'autorisation ou de la demande de permis,
+sont régulièrement exploités par le propriétaire ou ses ayants droit ou qui, s'ils ne sont pas exploités à la même date, ont
+fait l'objet d'une demande encore en cours d'instruction présentée en application de l'article 106 ou d'une autorisation
+d'exploiter datant de moins de deux ans.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-838 1956-08-16
+
+_Créé par_:
+
+  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+_Modifié par_:
+
+  - Loi n°70-1 du 2 janvier 1970 - art. 27 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
+
+_Cite_:
+
+  - Code minier 109, 106
+
+
+###### Article 113
+
+Les propriétaires du sol ou leurs ayants droit peuvent, à tout moment, déposer une demande d'autorisation d'exploiter, dans
+les conditions prévues par l'article 106, les terrains couverts par une autorisation ministérielle de recherche. Cette
+autorisation d'exploiter ne peut leur être accordée qu'à compte r de l'expiration de l'autorisation de recherches, et sous
+réserve que le titulaire de l'autorisation de recherches ne demande pas lui-même un permis d'exploitation.
+
+Sur les terrains couverts par une demande de permis d'exploitation de carrières n'émanant pas du titulaire de l'autorisation
+de recherches, les propriétaires ou leurs ayants droit peuvent déposer une demande d'autorisation d'exploiter dans les
+conditions prévues à l'article 106.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-838 1956-08-16
+
+_Créé par_:
+
+  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+_Modifié par_:
+
+  - Loi n°70-1 du 2 janvier 1970 - art. 27 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
+
+_Cite_:
+
+  - Code minier 106
 
 
 ###### Article 115
@@ -1936,6 +2143,52 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+
+###### Article 118
+
+En fin de permis et après qu'il a été satisfait aux prescriptions de l'article 83, la carrière est laissée de plein droit et
+gratuitement à la disposition du propriétaire du sol avec les puits, galeries et, d'une manière générale, tous ouvrages
+établis à demeure pour son exploitation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-838 1956-08-16
+
+_Créé par_:
+
+  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+_Modifié par_:
+
+  - Loi n°70-1 1970-01-02 art. 29 I, II JORF 4 janvier 1970 en vigueur le 1er octobre 1971
+  - Loi n°70-1 du 2 janvier 1970 - art. 29 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
+
+_Cite_:
+
+  - Code minier 83
+
+
+###### Article 119
+
+Des décrets en Conseil d'Etat déterminent, en tant que de besoin, les mesures nécessaires à l'application des dispositions du
+présent titre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-838 1956-08-16
+
+_Créé par_:
+
+  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+_Modifié par_:
+
+  - Loi n°70-1 du 2 janvier 1970 - art. 30 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
 
 
 ## Titre VI bis : Du retrait des titres de recherches et d'exploitation et de la renonciation à ces droits.<a id=15></a>
