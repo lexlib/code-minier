@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1966-01-01
+Version Consolidée au 1967-10-16
 ## Contenu: 
   - [Livre Ier : Régime général (art. 2 à 144)](#1)
     - [Titre Ier : De la classification des gîtes de substances minérales. (art. 2 à 6)](#2)
@@ -22,7 +22,7 @@ Version Consolidée au 1966-01-01
     - [Titre X : De la constatation des infractions et des pénalités. (art. 140 à 144)](#19)
   - [Livre II : Régimes particuliers (art. 145 à 202)](#20)
     - [Titre Ier : Des exploitations nationalisées de combustibles minéraux solides. (art. 145 à 171)](#21)
-    - [Titre II : Des mines domaniales de potasse d'Alsace et de l'organisation de l'industrie de la potasse. (art. 173 à 187)](#22)
+    - [Titre II : Des mines domaniales de potasse d'Alsace et de l'organisation de l'industrie de la potasse. (art. 172 à 183)](#22)
     - [Titre III : De certains organismes ou régimes spéciaux concernant la recherche et l'exploitation des hydrocarbures (art. 197 à 202)](#23)
       - [Chapitre III : Recherche et exploitation des hydrocarbures en Aquitaine. (art. 197 à 202)](#24)
 # Livre Ier : Régime général<a id=1></a>
@@ -2466,28 +2466,10 @@ _Cite_:
 
 ## Titre II : Des mines domaniales de potasse d'Alsace et de l'organisation de l'industrie de la potasse.<a id=22></a>
 
-###### Article 173
+###### Article 172
 
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-838 1956-08-16
-
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-_Abrogé par_:
-
-  - Décret n°67-796 du 20 septembre 1967 - art. 5 () JORF 22 septembre 1967 en vigueur le 16 octobre 1967
-
-
-###### Article 174
-
-(texte abrogé).
+L'exploitation des mines de sels de potassium et sels connexes qui n'ont pas été concédées avant le 23 janvier 1937 est
+réservée à l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -2499,14 +2481,54 @@ _Créé par_:
 
   - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
 
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°67-796 du 20 septembre 1967 - art. 5 () JORF 22 septembre 1967 en vigueur le 16 octobre 1967
 
+_Abrogé par_:
 
-###### Article 175
+  - Ordonnance n°2006-407 du 6 avril 2006 - art. 2 () JORF 7 avril 2006
 
-(texte abrogé).
+
+###### Article 183
+
+Il est constitué un comptoir de vente en commun, auquel devront adhérer, avec les mines domaniales de potasse d'Alsace, tous
+autres exploitants actuels ou futurs de mines de potasse en France, et dans les territoires de la France d'outre-mer.
+
+Ce comptoir a l'exclusivité de la vente en France et en dehors de la France de tous les produits de mines dont la liste sera
+établie par un décret en Conseil d'Etat ; il a seul le droit d'exporter ces produits.
+
+Néanmoins, les programmes d'exportation des produits visés à l'alinéa précédent ne pourront porter, pour chaque campagne, que
+sur les produits et tonnages restant disponibles après fixation du programme des livraisons à effectuer sur le marché
+métropolitain pour satisfaire aux besoins nationaux dans toutes les catégories.
+
+Les contrats passés par le comptoir de vente en commun concernant la vente de produits d'extraction ou de produits raffinés
+des mines aux industries transformant ces produits en tous autres sels, combinaisons ou mélanges, destinés aux usages
+agricoles, devront, sur décision ministérielle, subordonner l'exportation desdits produits de transformation à l'acceptation
+par les transformateurs de conditions particulières de prix et à la justification de l'emploi des fournitures de comptoir.
+
+Sous réserve d'autorisations qui pourront être données par le ministre de l'agriculture, il aura seul le droit d'exporter
+tous autres sels, combinaisons ou mélanges renfermant de la potasse destinés aux emplois agricoles.
+
+Sous réserve d'autorisations qui pourront être données à cet effet par les ministres chargés des mines et du commerce et par
+les ministres de l'agriculture et de l'économie et des finances, en ce qui concerne la France et par le ministre chargé des
+mines et le ministre chargé des territoires d'outre-mer en ce qui concerne les territoires de la France d'outre-mer, il aura
+seul le droit d'importer en France, et dans les territoires de la France d'outre-mer tous sels, combinaisons ou mélanges
+renfermant de la potasse.
+
+Les dispositions de l'alinéa précédent ne sont pas applicables aux produits ci-après :
+
+1° Carbonate de potasse raffiné, qualité dite 70/80 d'origine végétale ou animale, ou potasse de suint lorsque ces produits
+ne sont pas mélangés à d'autres produits et sont destinés aux industries de la savonnerie, de la verrerie ou du peignage des
+laines ;
+
+2° Guanos naturels, salins et vinasses de mélasses ou provenant du traitement de la betterave, à l'état naturel ou mélangés à
+des matières asséchantes exemptes de potasse minérale.
+
+Toutefois, le ministre chargé des mines pourra fixer annuellement la qualité maxima des produits mentionnés ci-dessus sous
+les 1° et 2° qui pourra être importée, sous réserve que les producteurs nationaux puissent fournir en qualité et quantité le
+complément nécessaire à l'industrie nationale ; ceux de ces produits qui proviennent du raffinage à l'étranger de matières
+premières d'origine française seront hors contingentement.
 
 **Liens relatifs à cet article**
 
@@ -2518,218 +2540,13 @@ _Créé par_:
 
   - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
 
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°67-796 du 20 septembre 1967 - art. 5 () JORF 22 septembre 1967 en vigueur le 16 octobre 1967
 
-
-###### Article 176
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-838 1956-08-16
-
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
 _Abrogé par_:
 
-  - Décret n°67-796 du 20 septembre 1967 - art. 5 () JORF 22 septembre 1967 en vigueur le 16 octobre 1967
-
-
-###### Article 177
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-838 1956-08-16
-
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-_Abrogé par_:
-
-  - Décret n°67-796 du 20 septembre 1967 - art. 5 () JORF 22 septembre 1967 en vigueur le 16 octobre 1967
-
-
-###### Article 178
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-838 1956-08-16
-
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-_Abrogé par_:
-
-  - Décret n°67-796 du 20 septembre 1967 - art. 5 () JORF 22 septembre 1967 en vigueur le 16 octobre 1967
-
-
-###### Article 179
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-838 1956-08-16
-
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-_Abrogé par_:
-
-  - Décret n°67-796 du 20 septembre 1967 - art. 5 () JORF 22 septembre 1967 en vigueur le 16 octobre 1967
-
-
-###### Article 180
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-838 1956-08-16
-
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-_Abrogé par_:
-
-  - Décret n°67-796 du 20 septembre 1967 - art. 5 () JORF 22 septembre 1967 en vigueur le 16 octobre 1967
-
-
-###### Article 181
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-838 1956-08-16
-
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-_Abrogé par_:
-
-  - Décret n°67-796 du 20 septembre 1967 - art. 5 () JORF 22 septembre 1967 en vigueur le 16 octobre 1967
-
-
-###### Article 182
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-838 1956-08-16
-
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-_Abrogé par_:
-
-  - Décret n°67-796 du 20 septembre 1967 - art. 5 () JORF 22 septembre 1967 en vigueur le 16 octobre 1967
-
-
-###### Article 184
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-838 1956-08-16
-
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-_Abrogé par_:
-
-  - Décret n°67-796 du 20 septembre 1967 - art. 5 () JORF 22 septembre 1967 en vigueur le 16 octobre 1967
-
-
-###### Article 185
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-838 1956-08-16
-
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-_Abrogé par_:
-
-  - Décret n°67-796 du 20 septembre 1967 - art. 5 () JORF 22 septembre 1967 en vigueur le 16 octobre 1967
-
-
-###### Article 186
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-838 1956-08-16
-
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-_Abrogé par_:
-
-  - Décret n°67-796 du 20 septembre 1967 - art. 5 () JORF 22 septembre 1967 en vigueur le 16 octobre 1967
-
-
-###### Article 187
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-838 1956-08-16
-
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-_Abrogé par_:
-
-  - Décret n°67-796 du 20 septembre 1967 - art. 5 () JORF 22 septembre 1967 en vigueur le 16 octobre 1967
+  - Ordonnance n°2006-407 du 6 avril 2006 - art. 2 () JORF 7 avril 2006
 
 
 ## Titre III : De certains organismes ou régimes spéciaux concernant la recherche et l'exploitation des hydrocarbures<a id=23></a>
