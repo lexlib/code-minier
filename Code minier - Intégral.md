@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1970-01-04
+Version Consolidée au 1970-10-01
 ## Contenu: 
   - [Livre Ier : Régime général (art. 2 à 144)](#1)
     - [Titre Ier : De la classification des gîtes de substances minérales. (art. 2 à 6)](#2)
@@ -15,7 +15,7 @@ Version Consolidée au 1970-01-04
       - [Chapitre Ier : Des relations des explorateurs et exploitants entre eux ou avec les propriétaires de la surface. (art. 69 à 76)](#12)
       - [Chapitre II : De l'exercice de la surveillance administrative et des mesures à prendre en cas d'accidents. (art. 77 à 97)](#13)
     - [Titre V : Des gîtes géothermiques à basse température. (art. 104)](#14)
-    - [Titre VI : Des carrières. (art. 115 à 117)](#15)
+    - [Titre VI : Des carrières. (art. 107 bis à 117)](#15)
     - [Titre VII : Du passage dans la classe des mines de substances antérieurement soumises au régime légal des minières ou à celui des carrières. (art. 121 à 128)](#16)
     - [Titre VIII : Des déclarations de fouilles et de levés géophysiques. (art. 131 à 137)](#17)
     - [Titre IX : Des expertises. (art. 138 à 139)](#18)
@@ -1514,6 +1514,34 @@ _Cité par_:
 
 
 ## Titre VI : Des carrières.<a id=15></a>
+
+###### Article 107 bis
+
+Le propriétaire d'une carrière peut, à l'expiration d'un contrat de fortage, s'opposer à son renouvellement. L'exploitant qui
+s'est conformé aux stipulations du contrat et qui a, par ses travaux ou ses investissements, apporté une plus-value au
+terrain a droit à une indemnité due par le propriétaire si celui-ci poursuit l'exploitation ou cède son droit à un tiers.
+
+Les modalités de congé et les éléments à prendre en compte pour la fixation de cette indemnité seront fixés par décret en
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-838 1956-08-16
+
+_Créé par_:
+
+  - Loi n°70-1 du 2 janvier 1970 - art. 24 () JORF 4 janvier 1970 en vigueur le 1er octobre 1970
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+_Nouveaux textes_:
+
+  - Code minier (nouveau) - art. L332-6 (V)
+
 
 ###### Article 115
 
