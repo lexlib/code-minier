@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 2004-02-04
+Version Consolidée au 2004-08-11
 ## Contenu: 
   - [Livre Ier : Régime général (art. 1 à 144-1)](#1)
     - [Titre Ier : De la classification des gîtes de substances minérales. (art. 1 à 6)](#2)
@@ -4099,8 +4099,8 @@ _Cite_:
 
 Les stockages souterrains mentionnés à l'article 3-1 ne peuvent être exploités qu'en vertu d'une concession. L'acte de
 concession détermine le périmètre de celle-ci et les formations géologiques auxquelles elle s'applique. La concession est
-accordée, après avis du Conseil général des mines et, le cas échéant, du Conseil supérieur d'hygiène publique de France, dans
-les conditions prévues aux articles 23, 24, 25, 26 et 27, aux I et II de l'article 29 et aux articles 36, 37, 43 et 45. Une
+accordée, après avis du Conseil général des mines et, le cas échéant, du Haut Conseil de la santé publique, dans les
+conditions prévues aux articles 23, 24, 25, 26 et 27, aux I et II de l'article 29 et aux articles 36, 37, 43 et 45. Une
 concession de stockage souterrain peut être attribuée sans appel à la concurrence aux titulaires d'une concession antérieure
 de stockage souterrain ou d'une concession de mines d'hydrocarbures liquides ou gazeux, lorsque les formations géologiques
 faisant l'objet de la demande sont incluses dans les périmètres déjà autorisés.
@@ -4121,9 +4121,9 @@ _Codifié par_:
 
   - Décret n°56-838 1956-08-16
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-8 du 3 janvier 2003 - art. 28 () JORF 4 janvier 2003
+  - Loi n°2004-806 du 9 août 2004 - art. 4 () JORF 11 août 2004
 
 _Cité par_:
 
