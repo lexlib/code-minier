@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1967-10-16
+Version Consolidée au 1970-01-04
 ## Contenu: 
   - [Livre Ier : Régime général (art. 2 à 144)](#1)
     - [Titre Ier : De la classification des gîtes de substances minérales. (art. 2 à 6)](#2)
@@ -1943,6 +1943,37 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+
+###### Article 142
+
+Sera punie d'une amende de 5 000 à 10 000 F toute infraction aux dispositions des articles 7 (dernier alinéa), 9, 12, 22
+(premier alinéa), 69, 70, 106, 109 (2°), 131, 133 et 136 du présent code.
+
+En cas de récidive, l'amende sera portée au double et un emprisonnement n'excédant pas deux ans pourra en outre être
+prononcé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-838 1956-08-16
+
+_Créé par_:
+
+  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+_Modifié par_:
+
+  - Loi n°70-1 du 2 janvier 1970 - art. 33 () JORF 4 janvier 1970
+
+_Cité par_:
+
+  - Code minier - art. 78 (VT)
+
+_Cite_:
+
+  - Code minier 7, 9, 12, 22, 69, 70, 106, 109, 131, 133, 136
 
 
 ###### Article 144
