@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1972-07-12
+Version Consolidée au 1976-08-29
 ## Contenu: 
   - [Livre Ier : Régime général (art. 1 à 144)](#1)
     - [Titre Ier : De la classification des gîtes de substances minérales. (art. 1 à 6)](#2)
@@ -3341,25 +3341,6 @@ _Créé par_:
 _Abrogé par_:
 
   - Loi n°77-620 du 16 juin 1977 - art. 34 () JORF 18 juin 1977
-
-
-###### Article 198
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-838 1956-08-16
-
-_Créé par_:
-
-  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-_Abrogé par_:
-
-  - Décret n°76-839 1976-08-24 art. 1 JORF 29 août 1976
 
 
 ###### Article 199
