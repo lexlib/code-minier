@@ -1,8 +1,8 @@
 # Code minier  
-Version Consolidée au 1959-11-01
+Version Consolidée au 1965-07-09
 ## Contenu: 
-  - [Livre Ier : Régime général (art. 6 à 144)](#1)
-    - [Titre Ier : De la classification des gîtes de substances minérales. (art. 6)](#2)
+  - [Livre Ier : Régime général (art. 2 à 144)](#1)
+    - [Titre Ier : De la classification des gîtes de substances minérales. (art. 2 à 6)](#2)
     - [Titre II : Des recherches de mines. (art. 7 à 20)](#3)
     - [Titre III : De l'exploitation des mines (art. 23 à 67)](#4)
       - [Chapitre Ier : Des concessions (art. 26 à 49)](#5)
@@ -30,6 +30,64 @@ Version Consolidée au 1959-11-01
 # Livre Ier : Régime général<a id=1></a>
 
 ## Titre Ier : De la classification des gîtes de substances minérales.<a id=2></a>
+
+###### Article 2
+
+Sont considérés comme mines les gîtes connus pour contenir :
+
+- de la houille, du lignite, ou d'autres combustibles fossiles, la tourbe exceptée, des bitumes, des hydrocarbures liquides
+ou gazeux, du graphite, du diamant ;
+
+- des sels de sodium et de potassium à l'état solide ou en dissolution, de l'alun, des sulfates autres que les sulfates
+alcalino-terreux ;
+
+- de la bauxite, de la fluorine ;
+
+- du fer, du cobalt, du nickel, du chrome, du manganèse, du vanadium, du titane, du zirconium, du molybdène, du tungstène, de
+l'hafnium, du rhénium ;
+
+- du cuivre, du plomb, du zinc, du cadmium, du germanium, de l'étain, de l'indium ;
+
+- du cérium, du scandium et autres éléments des terres rares ;
+
+- du niobium, du tantale ;
+
+- du mercure, de l'argent, de l'or, du platine, des métaux de la mine du platine ;
+
+- de l'hélium, du lithium, du rubidium, du césium, du radium, du thorium, de l'uranium et autres éléments radio-actifs ;
+
+- du soufre, du sélénium, du tellure ;
+
+- de l'arsenic, de l'antimoine, du bismuth ;
+
+- du gaz carbonique, à l'exception du gaz naturellement contenu dans les eaux qui sont ou qui viendraient à être utilisées
+pour l'alimentation humaine ou à des fins thérapeutiques ;
+
+- des phosphates ;
+
+- du béryllium, du gallium, du thallium.
+
+A cette énumération peuvent être ajoutées par décrets en Conseil d'Etat des substances analogues n'ayant pas jusqu'alors
+d'utilisation dans l'économie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-838 1956-08-16
+
+_Créé par_:
+
+  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+_Cité par_:
+
+  - Décret n°2004-1466 du 23 décembre 2004 - art. 1 (V)
+  - Décret n°2010-1394 du 12 novembre 2010 - art. 1 (V)
+  - Ordonnance n°2011-91 du 20 janvier 2011 (V)
+  - Code de l'environnement - art. R414-19 (V)
+  - Code de l'urbanisme - art. *R111-14 (VT)
+
 
 ###### Article 6
 
