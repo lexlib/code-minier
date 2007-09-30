@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 2006-12-31
+Version Consolidée au 2007-10-01
 ## Contenu: 
   - [Livre Ier : Régime général (art. 1 à 144-1)](#1)
     - [Titre Ier : De la classification des gîtes de substances minérales. (art. 1 à 6)](#2)
@@ -4209,46 +4209,47 @@ _Nouveaux textes_:
 
 ###### Article 104-3
 
-I. - L'exécution de tous travaux, qui seraient de nature à compromettre la sécurité du réservoir souterrain ou à troubler son
+I.-L'exécution de tous travaux, qui seraient de nature à compromettre la sécurité du réservoir souterrain ou à troubler son
 exploitation, est réglementée ou interdite par le préfet, même à l'égard du propriétaire des terrains, à l'intérieur du
 périmètre de stockage et d'un périmètre de protection institué par le décret accordant la concession. Ce décret fixe, pour
-chacun de ces périmètres, la profondeur qu'aucun travail ne peut dépasser sans une autorisation préalable du préfet.
+chacun de ces périmètres, la profondeur qu'aucun travail ne peut dépasser sans une autorisation préalable du préfet. 
 
-II. - Des servitudes d'utilité publique sont instituées autour des ouvrages nécessaires à l'exploitation d'un stockage
+II.-Des servitudes d'utilité publique sont instituées autour des ouvrages nécessaires à l'exploitation d'un stockage
 souterrain dans les conditions prévues aux I, II et III de l'article L. 515-8, aux premier, deuxième et troisième alinéas de
 l'article L. 515-9 et aux articles L. 515-10 et L. 515-11 du code de l'environnement. Ces servitudes et leurs périmètres sont
-arrêtés par l'autorité administrative.
+arrêtés par l'autorité administrative. 
 
-III. - Les actes de mutation de propriété des biens fonciers et immobiliers mentionnent explicitement, le cas échéant, les
-servitudes instituées en application de l'article L. 421-8 du code de l'urbanisme et du II du présent article.
+III.-Les actes de mutation de propriété des biens fonciers et immobiliers mentionnent explicitement, le cas échéant, les
+servitudes instituées en application de l'article L. 111-1-5 du code de l'urbanisme et du II du présent article.
 
 **Nota:**
 
-NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
-décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
-
-Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
-dans ce même article 26.
-
-En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
-l'ordonnance au 1er octobre 2007.
+Ordonnance n° 2011-91 du 20 janvier 2011 article 19 : L'abrogation des dispositions mentionnées au I de l'article 17 ne
+prendra effet qu'à compter de la publication des dispositions réglementaires du code minier pour ce qui concerne à l'article
+104-3 les mots " par le préfet " et les mots " du préfet " . (Fin de vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°56-838 1956-08-16
+  - Décret n°56-838 du 16 août 1956 portant code minier
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-8 du 3 janvier 2003 - art. 28 () JORF 4 janvier 2003
+  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 36 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+_Nouveaux textes_:
+
+  - Code minier (nouveau) - art. L264-1 (V)
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L421-8 (M)
   - Code de l'environnement - art. L515-10 (V)
-  - Code de l'environnement - art. L515-11 (V)
-  - Code de l'environnement - art. L515-8 (M)
+  - Code de l'environnement - art. L515-8 (V)
   - Code de l'environnement - art. L515-9 (V)
 
 
