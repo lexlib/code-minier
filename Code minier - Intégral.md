@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 2007-10-01
+Version Consolidée au 2008-03-01
 ## Contenu: 
   - [Livre Ier : Régime général (art. 1 à 144-1)](#1)
     - [Titre Ier : De la classification des gîtes de substances minérales. (art. 1 à 6)](#2)
