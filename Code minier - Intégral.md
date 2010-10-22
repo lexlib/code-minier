@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 2010-07-14
+Version Consolidée au 2010-10-23
 ## Contenu: 
   - [Livre Ier : Régime général (art. 1 à 144-1)](#1)
     - [Titre Ier : De la classification des gîtes de substances minérales. (art. 1 à 6)](#2)
@@ -245,11 +245,23 @@ _Nouveaux textes_:
 Est soumise à la section 5 du chapitre IX du titre II du livre II du code de l'environnement la recherche de formations
 souterraines aptes au stockage géologique de dioxyde de carbone.
 
+Sont soumis aux dispositions de la section 6 du chapitre IX du titre II du livre II du code de l'environnement la création,
+les essais, l'aménagement et l'exploitation de formations souterraines présentant les qualités requises pour le stockage
+géologique sûr et permanent de dioxyde de carbone, issu notamment des procédés de captage.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 80 (V)
+  - Ordonnance n°2010-1232 du 21 octobre 2010 - art. 7
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+_Nouveaux textes_:
+
+  - Code minier (nouveau) - art. L211-1 (V)
 
 
 ###### Article 4
@@ -4328,11 +4340,12 @@ _Nouveaux textes_:
 
 Il est procédé aux recherches de stockages souterrains selon les dispositions des articles 7, 8 et 9 et du premier alinéa de
 l'article 10. La prolongation du permis exclusif de recherches est de droit lorsque le titulaire a satisfait à ses
-obligations.
+obligations. 
 
-Si les formations souterraines recherchées sont déjà couvertes par des titres miniers, les recherches sont entreprises avec
-le consentement des détenteurs de ces titres miniers. A défaut, le différend est soumis à l'arbitrage du ministre chargé des
-mines, après avis du Conseil général des mines.
+Si les formations souterraines recherchées sont déjà couvertes par des titres miniers ou une concession de stockage
+géologique de dioxyde de carbone, les recherches sont entreprises avec le consentement des détenteurs de ces titres miniers
+ou du détenteur d'une concession de stockage géologique de dioxyde de carbone. A défaut, le différend est soumis à
+l'arbitrage du ministre chargé des mines, après avis du Conseil général des mines. 
 
 Le titulaire d'une concession de stockage souterrain ou d'une concession de mines d'hydrocarbures liquides ou gazeux peut
 seul, dans le même périmètre, effectuer des recherches sans avoir à demander un permis exclusif de recherches de stockage
@@ -4342,15 +4355,26 @@ souterrain.
 
 _Codifié par_:
 
-  - Décret n°56-838 1956-08-16
+  - Décret n°56-838 du 16 août 1956 portant code minier
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-8 du 3 janvier 2003 - art. 28 () JORF 4 janvier 2003
+  - Ordonnance n°2010-1232 du 21 octobre 2010 - art. 7
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+_Nouveaux textes_:
+
+  - Code minier (nouveau) - art. L221-1 (V)
+  - Code minier (nouveau) - art. L221-2 (V)
+  - Code minier (nouveau) - art. L241-1 (V)
+  - Code minier (nouveau) - art. L252-1 (V)
 
 _Cite_:
 
-  - Code minier 7, 8, 9, 10
+  - Code minier - art. 7
 
 
 ###### Article 104-2
